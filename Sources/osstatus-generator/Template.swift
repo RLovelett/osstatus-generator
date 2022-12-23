@@ -1,8 +1,8 @@
 //
-// Template.swift
-// osstatus-generator
+//  Template.swift
+//  osstatus-generator
 //
-// Created by Ryan Lovelett on 12/23/22.
+//  Created by Ryan Lovelett on 12/23/22.
 //
 
 import Security

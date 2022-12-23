@@ -1,5 +1,5 @@
 //
-//  CaseSequence.swift
+//  StatusSequence.swift
 //  osstatus-generator
 //
 //  Created by Ryan Lovelett on 12/23/22.

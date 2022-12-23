@@ -1,8 +1,8 @@
 //
-// osstatus_generator.swift
-// osstatus-generator
+//  osstatus_generator.swift
+//  osstatus-generator
 //
-// Created by Ryan Lovelett on 12/23/22.
+//  Created by Ryan Lovelett on 12/23/22.
 //
 
 import ArgumentParser
