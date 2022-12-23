@@ -36,6 +36,6 @@ descriptions.
         let template = Template(statuses: itr)
 
         // Write it to STDOUT
-        print(template.description)
+        print(template.render())
     }
 }
